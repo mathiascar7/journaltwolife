@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:xhtml="http://www.w3.org/1999/xhtml">
+
+  <!-- Página principal -->
+  <url>
+    <loc>https://journal2life.web.app/</loc>
+    <lastmod>2025-12-28</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>1.0</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://journal2life.web.app/ar/" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://journal2life.web.app/bn/" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://journal2life.web.app/de/" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://journal2life.web.app/en/" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://journal2life.web.app/es/" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://journal2life.web.app/fr/" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://journal2life.web.app/hi/" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://journal2life.web.app/it/" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://journal2life.web.app/ja/" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://journal2life.web.app/pt/" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://journal2life.web.app/ru/" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://journal2life.web.app/zh/" />
+  </url>
+
+  <!-- Página About -->
+  <url>
+    <loc>https://journal2life.web.app/about</loc>
+    <lastmod>2025-12-28</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+    <xhtml:link rel="alternate" hreflang="ar" href="https://journal2life.web.app/ar/about" />
+    <xhtml:link rel="alternate" hreflang="bn" href="https://journal2life.web.app/bn/about" />
+    <xhtml:link rel="alternate" hreflang="de" href="https://journal2life.web.app/de/about" />
+    <xhtml:link rel="alternate" hreflang="en" href="https://journal2life.web.app/en/about" />
+    <xhtml:link rel="alternate" hreflang="es" href="https://journal2life.web.app/es/about" />
+    <xhtml:link rel="alternate" hreflang="fr" href="https://journal2life.web.app/fr/about" />
+    <xhtml:link rel="alternate" hreflang="hi" href="https://journal2life.web.app/hi/about" />
+    <xhtml:link rel="alternate" hreflang="it" href="https://journal2life.web.app/it/about" />
+    <xhtml:link rel="alternate" hreflang="ja" href="https://journal2life.web.app/ja/about" />
+    <xhtml:link rel="alternate" hreflang="pt" href="https://journal2life.web.app/pt/about" />
+    <xhtml:link rel="alternate" hreflang="ru" href="https://journal2life.web.app/ru/about" />
+    <xhtml:link rel="alternate" hreflang="zh" href="https://journal2life.web.app/zh/about" />
+  </url>
+
+</urlset>

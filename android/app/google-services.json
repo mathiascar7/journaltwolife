@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "42977724478",
+    "project_id": "journal2life",
+    "storage_bucket": "journal2life.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:42977724478:android:40f435b5bf1f6de7f0a96f",
+        "android_client_info": {
+          "package_name": "com.mathias7.journal2life"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "42977724478-6hroidkjiflar501oobqeg4uohheb9gv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mathias7.journal2life",
+            "certificate_hash": "a09c448e0d52bf4c4f4817a1673832e2a4f8de33"
+          }
+        },
+        {
+          "client_id": "42977724478-2om43jefp04qjl4lbrijuk91cfbo34tc.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB1Drg1R5cpkfv3pEXR_8sWdTNFa0gp-40"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "42977724478-2om43jefp04qjl4lbrijuk91cfbo34tc.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

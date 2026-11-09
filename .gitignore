@@ -1,0 +1,130 @@
+# -----------------------------------------------------------------------------
+# Standard Miscellaneous & OS
+# -----------------------------------------------------------------------------
+*.class
+*.log
+*.pyc
+*.swp
+*.bak
+*.tmp
+*~
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+.atom/
+.build/
+.buildlog/
+.history
+.svn/
+.swiftpm/
+migrate_working_dir/
+
+# -----------------------------------------------------------------------------
+# IDEs & Editors
+# -----------------------------------------------------------------------------
+# IntelliJ / Android Studio
+*.iml
+*.ipr
+*.iws
+.idea/
+cmake-build-*/
+
+# Visual Studio Code
+.vscode/
+!.vscode/settings.json
+!.vscode/tasks.json
+!.vscode/launch.json
+!.vscode/extensions.json
+*.code-workspace
+
+# -----------------------------------------------------------------------------
+# Flutter & Dart core build artifacts
+# -----------------------------------------------------------------------------
+.dart_tool/
+.flutter-plugins
+.flutter-plugins-dependencies
+.packages
+.pub-cache/
+.pub/
+build/
+/build/
+**/doc/api/
+coverage/
+/coverage/
+
+# Obfuscation & Symbolication
+app.*.symbols
+app.*.map.json
+
+# -----------------------------------------------------------------------------
+# Android specific
+# -----------------------------------------------------------------------------
+**/android/**/gradle-wrapper.jar
+**/android/.gradle
+**/android/captures/
+**/android/gradleBuild/
+**/android/app/debug
+**/android/app/profile
+**/android/app/release
+**/android/key.properties
+**/android/local.properties
+**/android/**/GeneratedPluginRegistrant.java
+
+# Android Keystores & release artifacts
+*.jks
+*.keystore
+*.apk
+*.aab
+
+# -----------------------------------------------------------------------------
+# iOS & macOS specific
+# -----------------------------------------------------------------------------
+**/ios/**/*.mode1v3
+**/ios/**/*.mode2v3
+**/ios/**/*.moved-aside
+**/ios/**/*.pbxuser
+**/ios/**/*.perspectivev3
+**/ios/**/openradar
+**/ios/**/project.xcworkspace/xcuserdata/
+**/ios/**/xcshareddata/WorkspaceSettings.xcsettings
+**/ios/**/Pods/
+**/ios/**/.last_build_id
+**/ios/**/DerivedData/
+**/ios/Flutter/.last_build_id
+**/ios/Flutter/App.framework
+**/ios/Flutter/Flutter.framework
+**/ios/Flutter/Flutter.podspec
+**/ios/Flutter/Generated.xcconfig
+**/ios/Flutter/app.flx
+**/ios/Flutter/flutter_assets/
+**/ios/Flutter/flutter_export_environment.sh
+**/ios/ServiceDefinitions.json
+**/ios/Runner/GeneratedPluginRegistrant.h
+**/ios/Runner/GeneratedPluginRegistrant.m
+
+# macOS
+**/macos/Flutter/ephemeral/
+**/macos/Flutter/GeneratedPluginRegistrant.swift
+**/macos/Pods/
+
+# -----------------------------------------------------------------------------
+# Linux & Windows desktop
+# -----------------------------------------------------------------------------
+**/linux/flutter/ephemeral/
+**/windows/flutter/ephemeral/
+
+# -----------------------------------------------------------------------------
+# Firebase CLI, local cache & sensitive files
+# -----------------------------------------------------------------------------
+.firebase/
+firebase-debug.log*
+firestore-debug.log*
+ui-debug.log*
+
+# Private environment variables & credentials
+.env*
+!.env.example
