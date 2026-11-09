@@ -214,6 +214,13 @@ Personal reflections constitute the most intimate category of human data. The sy
 
 ## 📱 App Preview
 
+### Web & Desktop Interface
+<p align="center">
+  <img src="newstory.png" alt="Journal2Life New Story Editor & Voice Ingestion" width="48%" />
+  <img src="statistics.png" alt="Affective Statistics Dashboard & Emotional Ratios" width="48%" />
+</p>
+
+### Mobile Experience (Android & PWA)
 <p align="center">
   <img src="flutter_01.png" alt="Home Screen" width="23%" />
   <img src="flutter_02.png" alt="Journal Editor" width="23%" />
